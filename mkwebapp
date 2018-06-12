@@ -1,3 +1,7 @@
+#!/bin/bash
+
+echo generate simple web app
+
 mvn archetype:generate \
 	-DgroupId=$2 \
 	-DartifactId=$1 \
