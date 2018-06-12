@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo Lists the files in your .ssh directory, if they exist
+
+ls -al ~/.ssh
+
+
