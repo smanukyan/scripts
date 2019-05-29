@@ -1,0 +1,3 @@
+echo \$JAVA_HOME=$JAVA_HOME
+set -x
+/usr/libexec/java_home -V
